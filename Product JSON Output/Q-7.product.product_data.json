@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6d1"
+  },
+  "product_name": "Intelligent Fresh Chips",
+  "product_material": "Concrete"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6d2"
+  },
+  "product_name": "Practical Fresh Sausages",
+  "product_material": "Cotton"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6d3"
+  },
+  "product_name": "Refined Steel Car",
+  "product_material": "Rubber"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6d4"
+  },
+  "product_name": "Gorgeous Plastic Pants",
+  "product_material": "Soft"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6d5"
+  },
+  "product_name": "Sleek Cotton Chair",
+  "product_material": "Fresh"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6d6"
+  },
+  "product_name": "Awesome Wooden Towels",
+  "product_material": "Plastic"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6d7"
+  },
+  "product_name": "Practical Soft Shoes",
+  "product_material": "Rubber"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6d8"
+  },
+  "product_name": "Incredible Steel Hat",
+  "product_material": "Rubber"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6d9"
+  },
+  "product_name": "Awesome Wooden Ball",
+  "product_material": "Soft"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6da"
+  },
+  "product_name": "Generic Wooden Pizza",
+  "product_material": "Frozen"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6db"
+  },
+  "product_name": "Unbranded Wooden Cheese",
+  "product_material": "Soft"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6dc"
+  },
+  "product_name": "Unbranded Plastic Salad",
+  "product_material": "Wooden"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6dd"
+  },
+  "product_name": "Gorgeous Cotton Keyboard",
+  "product_material": "Concrete"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6de"
+  },
+  "product_name": "Incredible Steel Shirt",
+  "product_material": "Metal"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6df"
+  },
+  "product_name": "Ergonomic Cotton Hat",
+  "product_material": "Rubber"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6e0"
+  },
+  "product_name": "Small Soft Chair",
+  "product_material": "Cotton"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6e1"
+  },
+  "product_name": "Incredible Metal Car",
+  "product_material": "Fresh"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6e2"
+  },
+  "product_name": "Licensed Plastic Bacon",
+  "product_material": "Steel"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6e3"
+  },
+  "product_name": "Intelligent Cotton Chips",
+  "product_material": "Soft"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6e4"
+  },
+  "product_name": "Handcrafted Wooden Bacon",
+  "product_material": "Concrete"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6e5"
+  },
+  "product_name": "Unbranded Granite Chicken",
+  "product_material": "Metal"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6e6"
+  },
+  "product_name": "Ergonomic Soft Hat",
+  "product_material": "Rubber"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6e7"
+  },
+  "product_name": "Intelligent Steel Pizza",
+  "product_material": "Cotton"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6e8"
+  },
+  "product_name": "Tasty Rubber Cheese",
+  "product_material": "Frozen"
+},
+{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6e9"
+  },
+  "product_name": "Licensed Steel Car",
+  "product_material": "Cotton"
+}]

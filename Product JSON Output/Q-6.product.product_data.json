@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "64fb2d6f1543f82145a8b6da"
+  },
+  "id": "10",
+  "product_name": "Generic Wooden Pizza",
+  "product_price": 84,
+  "product_material": "Frozen",
+  "product_color": "indigo"
+}]

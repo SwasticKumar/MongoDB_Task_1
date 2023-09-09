@@ -63,7 +63,21 @@ db.getCollection('Product_Data').find({$and: [{ product_price: 492 },{ product_c
 10. Delete the products which product price value are same
 
 ```bash
-
+db.getCollection('product_data').aggregate(
+  [
+    {
+      $group: {
+        _id: '$product_price',
+        count: { $sum: 1 },
+        ids: { $push: '$_id' }
+      }
+    },
+    { $match: { count: { $gt: 1 } } },
+    { $unwind: '$ids' },
+    { $replaceRoot: { newRoot: { _id: '$ids' } } }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
 ```
 
 ## License
